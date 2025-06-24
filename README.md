@@ -40,18 +40,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KE-creator-BOT&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KE-creator-BOT&layout=compact&theme=tokyonight" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=KE-creator-BOT&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
-
----
 
 ### 📬 Connect With Me
 
