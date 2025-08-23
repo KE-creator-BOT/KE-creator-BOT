@@ -1,28 +1,9 @@
 <h1 align="center">Hi 👋, I'm Keshav Chauhan</h1>
 
-<p align="center">
-  🎓 Master's student at <strong>Shoolini University</strong>  
+<p align="center">  
   <br/>💻 Frontend Developer | 🌱 Backend Learner | 🌍 Tech Explorer  
   <br/>🚀 Passionate about building community-driven & interactive web platforms
 </p>
-
----
-
-### 💡 What I'm Currently Exploring
-
-- 🔁 **Micro-Skill Exchange Platforms**  
-  Platforms that allow users to exchange skills like time banking – skill for skill.
-
-- 🌐 **Community Connect Networks**  
-  Social networks where **alumni, students, and faculty** can interact, collaborate, and share resources.
-
-- 🌍 **Real-Time Global Visualization**  
-  Using tools like **Three.js** to visualize user interactions and locations on a 3D globe.
-
-- 🧵 **Command-Line Based Social Utilities**  
-  Lightweight tools that allow interaction and exchange directly via the terminal for accessibility and speed.
-
----
 
 ### 🛠 Tech Stack & Tools
 
