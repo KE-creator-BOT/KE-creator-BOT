@@ -45,9 +45,6 @@ I’m a frontend-focused developer who builds clean, responsive, and user-centri
 
 ---
 
-## 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
 
 ---
 
