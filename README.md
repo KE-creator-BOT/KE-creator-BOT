@@ -37,15 +37,4 @@ I’m a frontend-focused developer who builds clean, responsive, and user-centri
 
 ---
 
-## 📈 GitHub Stats
-
-![Keshav's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-
----
-
 ⭐ *Focused on building products that are not just functional, but enjoyable to use.*
